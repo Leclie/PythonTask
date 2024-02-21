@@ -1,0 +1,10 @@
+2024-02-22 00:01:51,421 - __main__ - INFO - Created Animal object with name: Eagle
+2024-02-22 00:01:51,421 - __main__ - INFO - Created Bird object with name: Eagle and wingspan: 2.5
+2024-02-22 00:01:51,421 - __main__ - INFO - Created Bird object: Name: Eagle
+2024-02-22 00:02:10,881 - __main__ - INFO - Created Animal object with name: Salmon
+2024-02-22 00:02:10,881 - __main__ - INFO - Created Fish object with name: Salmon and max depth: 20
+2024-02-22 00:02:10,881 - __main__ - INFO - Created Fish object: Name: Salmon
+2024-02-22 00:45:08,501 - __main__ - INFO - Created Animal object with name: Salmon
+2024-02-22 00:45:08,501 - __main__ - INFO - Created Fish object with name: Salmon and max depth: 20
+2024-02-22 00:45:08,501 - __main__ - INFO - Calculating depth for Fish object with name: Salmon
+2024-02-22 00:45:08,502 - __main__ - INFO - Created Fish object: Name: Salmon
